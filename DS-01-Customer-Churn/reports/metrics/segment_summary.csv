@@ -1,0 +1,5 @@
+customer_segment,customers,avg_tenure,avg_monthly_charges,avg_service_count,churn_rate,avg_historical_revenue
+0,1557,10.27,29.89,1.26,0.24,289.08
+1,2144,56.78,92.1,5.77,0.16,5224.82
+2,2315,14.79,77.6,3.22,0.47,1139.31
+3,1027,54.56,31.63,1.85,0.05,1720.1

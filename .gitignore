@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw datasets and temporary training logs
+**/data/raw/
+**/lightning_logs/
+
+# Video recordings (hosted externally)
+**/*.mp4
+**/*.mov
+**/*.webm
+
+# Temporary files
+*.tmp
+*.log

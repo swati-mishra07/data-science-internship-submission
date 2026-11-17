@@ -1,0 +1,50 @@
+# Python
+lightning_logs/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Raw datasets
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed datasets
+data/processed/*
+!data/processed/.gitkeep
+
+# Model artifacts
+models/*
+!models/.gitkeep
+
+# Generated reports
+reports/figures/*
+reports/forecasts/*
+reports/metrics/*
+
+
+# generated evaluation metrics
+!reports/metrics/
+!reports/metrics/*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Demo recordings
+demo/

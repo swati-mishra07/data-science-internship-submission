@@ -1,0 +1,16 @@
+{
+    "dataset": "Hillstrom MineThatData",
+    "experiment": "Womens E-Mail vs No E-Mail",
+    "total_experiment_customers": 42693,
+    "training_customers": 32019,
+    "test_customers": 10674,
+    "treatment_customers_test": 5347,
+    "control_customers_test": 5327,
+    "treatment_conversion_rate_test": 0.00878997568730129,
+    "control_conversion_rate_test": 0.005819410550028158,
+    "observed_test_ate": 0.0029705651372731326,
+    "mean_predicted_uplift": 0.0031901178853984695,
+    "qini_score": 0.23659032590083667,
+    "auuc_score": 0.7347974715026473,
+    "positive_uplift_customers": 9704
+}

@@ -1,0 +1,60 @@
+feature,importance
+numeric__MonthlyCharges,1332
+numeric__TotalCharges,1294
+numeric__tenure,875
+categorical__PaymentMethod_Electronic check,177
+categorical__gender_Female,135
+numeric__service_count,135
+categorical__PaperlessBilling_No,126
+categorical__PaymentMethod_Bank transfer (automatic),102
+categorical__OnlineSecurity_No,102
+numeric__is_month_to_month,97
+categorical__Contract_One year,96
+categorical__MultipleLines_No,91
+numeric__SeniorCitizen,81
+categorical__Contract_Two year,75
+categorical__Dependents_No,73
+numeric__StreamingMovies_flag,73
+numeric__OnlineBackup_flag,68
+categorical__TechSupport_No,67
+categorical__PaymentMethod_Credit card (automatic),61
+categorical__PaymentMethod_Mailed check,61
+numeric__StreamingTV_flag,52
+categorical__OnlineBackup_No,49
+categorical__InternetService_Fiber optic,47
+categorical__Partner_No,47
+categorical__Partner_Yes,44
+numeric__MultipleLines_flag,40
+numeric__TechSupport_flag,37
+numeric__PhoneService_flag,34
+categorical__InternetService_DSL,30
+numeric__OnlineSecurity_flag,28
+categorical__gender_Male,28
+numeric__DeviceProtection_flag,24
+categorical__tenure_group_13-24 months,22
+categorical__Dependents_Yes,16
+categorical__StreamingMovies_No,16
+categorical__DeviceProtection_No,15
+categorical__tenure_group_25-48 months,13
+categorical__StreamingTV_No,11
+categorical__PaperlessBilling_Yes,10
+categorical__InternetService_No,3
+categorical__tenure_group_0-12 months,2
+categorical__PhoneService_No,2
+categorical__PhoneService_Yes,0
+categorical__MultipleLines_No phone service,0
+categorical__MultipleLines_Yes,0
+categorical__StreamingTV_Yes,0
+categorical__StreamingTV_No internet service,0
+categorical__DeviceProtection_No internet service,0
+categorical__DeviceProtection_Yes,0
+categorical__OnlineBackup_No internet service,0
+categorical__OnlineBackup_Yes,0
+categorical__OnlineSecurity_No internet service,0
+categorical__OnlineSecurity_Yes,0
+categorical__TechSupport_Yes,0
+categorical__TechSupport_No internet service,0
+categorical__StreamingMovies_Yes,0
+categorical__StreamingMovies_No internet service,0
+categorical__Contract_Month-to-month,0
+categorical__tenure_group_49-72 months,0

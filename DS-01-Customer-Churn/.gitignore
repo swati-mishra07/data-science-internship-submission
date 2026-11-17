@@ -1,0 +1,45 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+kaggle.json
+
+# Raw and processed datasets
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+# Uplift datasets
+data/uplift/*
+!data/uplift/.gitkeep
+
+# Customer-level generated predictions
+reports/uplift/uplift_customer_predictions.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Demo recordings
+demo/*.mp4
+
+# Presentation documents
+presentations/*.pptx
+presentations/*.docx
